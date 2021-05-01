@@ -1,4 +1,4 @@
-<h1 align="center">Rao</h1>
+<h1 align="center">RaoBot</h1>
 <blockquote align="center">
   <em>Raobot</em>is my personal Discord bot that has as much functionality as possible - uses SherBot.
 </blockquote>
